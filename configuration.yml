@@ -1,0 +1,16 @@
+#messages:
+#  hello: Hello world!
+
+#server:
+#  type: simple
+#  applicationContextPath: /
+#  adminContextPath: /admin
+#  connector:
+##    type: http
+#    port: 8080
+
+database:
+  driverClass: com.mysql.jdbc.Driver
+  user: root
+  password: 123456
+  url:  jdbc:mysql://localhost:8888/abc
